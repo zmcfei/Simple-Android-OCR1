@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/home/zmc/GitWorkspace/Simple-Android-OCR1/tesstwo/res"/><source path="/home/zmc/GitWorkspace/Simple-Android-OCR1/tesstwo/build/generated/res/rs/debug"/><source path="/home/zmc/GitWorkspace/Simple-Android-OCR1/tesstwo/build/generated/res/generated/debug"/></dataSet><dataSet config="debug"><source path="/home/zmc/GitWorkspace/Simple-Android-OCR1/tesstwo/src/debug/res"/></dataSet><mergedItems/></merger>

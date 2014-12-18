@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/zmc/GitWorkspace/Simple-Android-OCR1/simpleAndroidOCR/build/intermediates/exploded-aar/Simple-Android-OCR1/tesstwo/unspecified/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5c42d5e44af79a5b3cc20ff118d1188ab62e1def">
+        <dex dex="/home/zmc/GitWorkspace/Simple-Android-OCR1/simpleAndroidOCR/build/intermediates/pre-dexed/debug/classes-2153ef560db9e416a36f9f6d2b405d865cf93825.jar" />
+    </item>
+
+</items>

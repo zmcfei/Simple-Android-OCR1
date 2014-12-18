@@ -1,0 +1,2 @@
+/home/zmc/GitWorkspace/Simple-Android-OCR1/simpleAndroidOCR/build/intermediates/classes/debug
+/home/zmc/GitWorkspace/Simple-Android-OCR1/simpleAndroidOCR/build/intermediates/pre-dexed/debug/classes-2153ef560db9e416a36f9f6d2b405d865cf93825.jar
